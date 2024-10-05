@@ -4,7 +4,7 @@ This project is a simple **Responsive Icon Navbar** created using HTML, CSS, and
 
 ## Live Demo
 
-Check out the live demo here: [Responsive Icon Navbar](#)
+Check out the live demo here: [Responsive Icon Navbar](https://codepen.io/Roshan-Thakur-the-decoder/pen/dyxXOqL)
 
 ## Features
 
@@ -19,11 +19,11 @@ Check out the live demo here: [Responsive Icon Navbar](#)
 
 ### Desktop View
 
-![Desktop Screenshot](#  )
+![Desktop Screenshot](https://github.com/devroshanthakur/responsive-icon-navbar/blob/c802a384c947d134ba32400e79bb7c18a710fbba/Responsive%20Icon%20Navbar%20Desktop%20View.png)
 
 ### Mobile View
 
-![Mobile Screenshot](#)
+![Mobile Screenshot](https://github.com/devroshanthakur/responsive-icon-navbar/blob/c802a384c947d134ba32400e79bb7c18a710fbba/Responsive%20Icon%20Navbar%20Mobile%20View.png)
 
 ## Technologies Used
 
